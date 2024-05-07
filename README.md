@@ -112,4 +112,4 @@ int main() {
 
 
 # RESULT:
-The programs are executed successfully.
+The programs are executed successfull..
